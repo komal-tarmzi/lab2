@@ -3,3 +3,8 @@ This is my Lab 2.
 git is easy 
 This change is from feature-test branch.
 This change is from main branch.
+
+This is another change in feature-test.
+This change is from feature-test branch.
+this is komal
+
